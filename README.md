@@ -1,12 +1,14 @@
-# ShopOn
-This is an Android Native application which is developed as a solution for _**HackOn with Amazon 2022**_ for the problem statement related to shopping experience. The detailed problem statement and proposed solution are mentioned furthur in the document.  
-Click [here](https://youtu.be/ebxUM9ym_Bw) for the video presentation with app demo.
+## Overview:
+The AR Shopping App is an augmented reality-based shopping solution designed to enhance the online shopping experience. By leveraging Scene Viewer and ARCore, users can preview and interact with 3D models of products in real-time, helping them make more informed purchasing decisions regarding size, fit, and color.
 
-## Problem Statement:
-What is that one thing that has refrained customers from buying online for a long time? One of the prominent differences between traditional and online shopping has been physically experiencing the products, confirming its size, all of which has been a pain point for a very long time while buying any product online. If we could solve this problem of product trials, checking the product dimensions by comparing it with real world objects, we can onboard many customers who doesn’t buy online because of this gap.
-
-## Proposed Solution:
-We intend to solve these problems by using the _Augmented Reality (AR) Technology_, through which we’ll target on providing customers with virtual representation analysing the product’s size, fitment, colour theme sync, etc. With the feature of trying out their products virtually through their mobile phones, the gap between the customer and the product will be minimized.
+## Features:
+1. Augmented Reality (AR) Preview – View products in a real-world environment using AR.
+2. Interactive 3D Models – Rotate, zoom, and inspect products before purchasing.
+3. Product Filtering & Search – Quickly find items based on categories and preferences.
+4. User Authentication – Secure login and signup with Firebase.
+5. Shopping Cart & Wishlist – Add favorite products for future reference.
+6. Seamless Checkout Process – Integration with payment gateways.
+7. Dark Mode Support – UI adapts to user preferences.
 
 ## Screenshots of the application :
 
@@ -26,9 +28,6 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 ## How quick can this technology be implemented ?
 Our solution can be instantly be brought to production with the existing shopping applications for different products.
 
-## What is the impact of this solution ?
-The impact of adding this feature will be huge, as we’ve now reduced the gap between our customers and the actual product. More and more people would be eager to try the product and ultimately increase the sales by a very large factor.
-
 ## Is the solution scalable ?
 The solution is highly scalable as it can be implemented with the existing shopping applications.
 
@@ -37,6 +36,4 @@ After bringing the idea to production, more and more users will be tempted to ch
 
 ## Use this application : 
 
-1. You can download the [APK](https://drive.google.com/file/d/1jXiykk2tw-S18ywyPzSPNj8OBwTRiybX/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
-
-2. Or you can clone the repository and import in Android Studio to see the code + build the APK.
+1. You can clone the repository and import in Android Studio to see the code + build the APK.
