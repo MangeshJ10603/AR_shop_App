@@ -13,9 +13,11 @@ The AR Shopping App is an augmented reality-based shopping solution designed to 
 ## Screenshots of the application :
 
 <img width="351" height="575" alt="image" src="https://github.com/user-attachments/assets/b90c92fa-f818-45e3-9d14-cf46a9431422" />
+<img width="396" height="724" alt="image" src="https://github.com/user-attachments/assets/85223f86-2ebe-487e-8203-58f1f49a091d" />
+<img width="383" height="626" alt="image" src="https://github.com/user-attachments/assets/26da5471-182e-4c8f-8390-dea4437d7d74" />
+<img width="379" height="626" alt="image" src="https://github.com/user-attachments/assets/4465b582-7abc-4187-ad1b-a7dbb0ab1025" />
+<img width="358" height="576" alt="image" src="https://github.com/user-attachments/assets/be6f74e3-7bce-438d-a7de-c9545a396d1b" />
 
-![Application Screenshots2](./doc_assets/ScreenShot2.png)
-![Application Screenshots3](./doc_assets/ScreenShot3.png)
 
 ## How does it work?
 We will be using **SceneViewer** by triggering a explicit intent to it. 
