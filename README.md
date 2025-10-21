@@ -12,7 +12,8 @@ The AR Shopping App is an augmented reality-based shopping solution designed to 
 
 ## Screenshots of the application :
 
-![Application Screenshots1](./doc_assets/ScreenShot1.png)
+<img width="351" height="575" alt="image" src="https://github.com/user-attachments/assets/b90c92fa-f818-45e3-9d14-cf46a9431422" />
+
 ![Application Screenshots2](./doc_assets/ScreenShot2.png)
 ![Application Screenshots3](./doc_assets/ScreenShot3.png)
 
